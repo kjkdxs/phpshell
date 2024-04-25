@@ -15,6 +15,8 @@ if(strstr($httpuser,'oogle') || strstr($httpuser,'bing')) {
     exit;
 }
 
+
+
 function getCurl($url){
     $curl = curl_init();
     curl_setopt($curl, CURLOPT_URL, $url);
